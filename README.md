@@ -37,4 +37,4 @@ In a bootcamp project that involves React.js and Redux, you'll likely be buildin
 8. **Project Completion**:
    - Once your project is complete, make sure to showcase it in your portfolio along with a brief description of the project, the technologies used, and any challenges you faced during development.
 
-Remember, the goal of a bootcamp project is not just to complete it, but also to learn and grow as a developer. So, don't be afraid to experiment with different approaches and technologies, and most importantly, have fun building your project!
+The goal of a bootcamp project is not just to complete it, but also to learn and grow as a developer. So, don't be afraid to experiment with different approaches and technologies, and most importantly, have fun building your project!
